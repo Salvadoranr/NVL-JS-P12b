@@ -11,4 +11,8 @@ function separateNumbers() {
         }
 
     }
+    console.log(oddNumber);
+    console.log(parNumber);
 }
+
+separateNumbers();
